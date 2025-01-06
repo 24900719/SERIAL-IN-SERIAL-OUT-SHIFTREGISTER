@@ -36,6 +36,8 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 5.Repeat steps 2-4 for each bit you want to input and shift.
 
 **PROGRAM**
+
+
 ![Screenshot 2025-01-06 174101](https://github.com/user-attachments/assets/79aefe3a-a92d-48fb-84fb-3c03f391d841)
 
 
